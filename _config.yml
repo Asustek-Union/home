@@ -4,3 +4,5 @@ plugins:
 title: 華碩電腦企業工會
 description: 華碩電腦企業工會
 show_downloads: false
+site:
+  logo: ASUSTek.union-logo.jpg
